@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chiragberde-portfolio.netlify.app/](https://chiragberde-portfolio.netlify.app/)
 
-- 💬 Ask me about **React,MERN,GIT,GITHUB**
+- 💬 Ask me about **React,HTML,CSS,Bootstrap,Frontend,MERN,GIT,GITHUB**
 
 - 📫 How to reach me **chirag.berde@gmail.com**
 
