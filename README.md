@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/berdechirag" target="blank"><img src="https://img.shields.io/twitter/follow/berdechirag?logo=twitter&style=for-the-badge" alt="berdechirag" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend & Backend (MERN)**
+- 🌱 I’m currently learning **Frontend & Backend (MERN Stack)**
 
 - 👨‍💻 All of my projects are available at [https://chiragberde-portfolio.netlify.app/](https://chiragberde-portfolio.netlify.app/)
 
-- 💬 Ask me about **React,HTML,CSS,Bootstrap,Frontend,MERN,GIT,GITHUB**
+- 💬 Ask me about **ReactJs, ReduxJs, JavaScript, HTML, CSS, Bootstrap, Frontend, MERN Stack, GIT, GITHUB**
 
 - 📫 How to reach me **chirag.berde@gmail.com**
 
