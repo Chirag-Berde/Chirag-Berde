@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/chirag-berde-060450253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-berde-060450253" height="30" width="40" /></a>
 <a href="https://fb.com/chirag.berde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirag.berde" height="30" width="40" /></a>
 <a href="https://instagram.com/chiragggg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragggg__" height="30" width="40" /></a>
-<a href="https://youtube.com/Chirag.B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirag.b" height="30" width="40" /></a>
+<a href="https://youtube.com/chirag.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirag.b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
