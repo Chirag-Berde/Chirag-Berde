@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chirag.berde@gmail.com**
 
-- 📄 Know about my experiences [https://chiragberde-portfolio.netlify.app/](https://chiragberde-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://chiragberde-portfolios.netlify.app/](https://chiragberde-portfolios.netlify.app/)
 
 - ⚡ Fun fact **Do What is difficult!!**
 
