@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@Chirag.B](https://www.youtube.com/@Chirag.B)
 
-- 💬 Ask me about **ReactJs, ReduxJs, JavaScript, HTML, CSS, Bootstrap, Frontend, GIT, GITHUB**
+- 💬 Ask me about **ReactJs, NextJs, Nunjuck, ReduxJs, JavaScript, jQuery HTML5, CSS3, Bootstrap, Frontend, GIT, GITHUB**
 
 - 📫 How to reach me **chirag.berde@gmail.com**
 
