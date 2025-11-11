@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently working as a **Frontend Developer (ReactJs)**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@Chirag.B](https://www.youtube.com/@Chirag.B)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/@ChiragBerde](https://www.youtube.com/@ChiragBerde)
 
 - 💬 Ask me about **ReactJs, NextJs, Nunjuck, ReduxJs, JavaScript, jQuery HTML5, CSS3, Bootstrap, Tailwind CSS, Frontend, GIT, GITHUB**
 
 - 📫 How to reach me **chirag.berde@gmail.com**
 
-- 📄 Know about my experiences [https://chiragberde-portfolios.netlify.app/](https://chiragberde-portfolios.netlify.app/)
+- 📄 Know about my experiences [https://chirag-berde-porfolio.netlify.app/](https://chirag-berde-porfolio.netlify.app/)
 
 - ⚡ Fun fact **Do What is difficult!!**
 
