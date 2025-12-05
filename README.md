@@ -1,4 +1,4 @@
-![logo](https://github.com/Chirag-Berde/Chirag-Berde/blob/main/githup-profile-new.png)
+![logo](https://github.com/Chirag-Berde/Chirag-Berde/blob/main/github-profile.png)
 <h1 align="center">Hi 👋, I'm Chirag Berde</h1>
 <h3 align="center">"Commited Web Developer delivering exceptional results."</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
