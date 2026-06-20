@@ -26,7 +26,7 @@
 <a href="https://x.com/berdechirag" target="blank"><img align="center" src="https://www.sullcrom.com/SullivanCromwell/_Assets/images/X_Icon_Light.svg" alt="berdechirag" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chirag-berde-060450253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-berde-060450253" height="30" width="40" /></a>
 <a href="https://fb.com/chirag.berde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirag.berde" height="30" width="40" /></a>
-<a href="https://instagram.com/chiragggg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiragggg__" height="30" width="40" /></a>
+<a href="https://instagram.com/chirag.berde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag.berde" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ChiragBerde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirag.b" height="30" width="40" /></a>
 </p>
 
